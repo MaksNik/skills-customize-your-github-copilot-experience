@@ -72,6 +72,20 @@
           "type": "python"
         }
       ]
+    },
+    {
+      "id": "introduction-to-web-development",
+      "title": "Introduction to Web Development",
+      "description": "Build a simple interactive web page using HTML, CSS, and JavaScript.",
+      "path": "assignments/introduction-to-web-development",
+      "dueDate": "2026-05-21",
+      "attachments": [
+        {
+          "name": "Starter Code",
+          "file": "starter-code.html",
+          "type": "html"
+        }
+      ]
     }
   ]
 }
